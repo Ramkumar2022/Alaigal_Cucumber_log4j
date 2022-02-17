@@ -14,15 +14,7 @@ import org.junit.runner.RunWith;
 
 public class RunnerClass {
 
-public static void vignesh() {
-	System.out.println("GOOD EVENING");
-	
-	public static void ram() {
-		System.out.println("GOOD MORNING");
-	
-	public static void ramkumar() {
-		System.out.println("GOOD MORNING");
-}
+
 
 }
 
